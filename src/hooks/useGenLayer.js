@@ -21,7 +21,7 @@ const CHAIN_CONFIGS = {
   bradbury: {
     chainId: '0x107D',
     chainName: 'GenLayer Bradbury',
-    rpcUrls: ['https://rpc.bradbury.genlayer.com'],
+    rpcUrls: ['https://rpc-bradbury.genlayer.com'],
     nativeCurrency: { name: 'GEN', symbol: 'GEN', decimals: 18 },
     blockExplorerUrls: ['https://explorer-bradbury.genlayer.com'],
   },
