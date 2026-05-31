@@ -4,7 +4,7 @@ export const NETWORKS = {
     label: 'Bradbury',
     chainId: '0x107D',
     chainIdInt: 4221,
-    rpcUrl: 'https://rpc.bradbury.genlayer.com',
+    rpcUrl: 'https://rpc-bradbury.genlayer.com',
     explorerUrl: 'https://explorer-bradbury.genlayer.com',
     chainName: 'GenLayer Bradbury',
     contracts: {
